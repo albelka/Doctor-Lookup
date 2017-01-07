@@ -7,6 +7,5 @@ $(document).ready(function() {
     var medicalIssue = $('#ailment').val();
     var newDoctor = new Doctor();
     newDoctor.getDoctors(medicalIssue);
-
   });
 });

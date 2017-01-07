@@ -11,10 +11,10 @@
 * Gulp
 * Bower
 * SASS
-
+* AJAX
 
 ## Setup/Installation Requirements
-* Clone this reposity from GitHub.
+* Clone this repository from GitHub.
 * Navigate to the project directory in the terminal.
 * Use the command >npm init
 * Use the command >bower init
